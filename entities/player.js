@@ -75,7 +75,7 @@ var player = bs.component([
     this.left.on('end',    function() { self.blockedLeft -= 1 })
     this.right.on('end',   function() { self.blockedRight -= 1 })
 
-    this.shootTimer = 0
+    this.shootTimer = 1
   })
   .on('tick', function() {
     this.body.SetActive(true)
