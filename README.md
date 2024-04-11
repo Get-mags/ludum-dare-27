@@ -1,6 +1,6 @@
 # ludum-dare-27 #
 
-[![hurry](http://hughsk.github.io/ludum-dare-27/img/screenshots/0.png)](http://hughsk.github.io/ludum-dare-27)
+[![hurry](http://hughsk.github.io/ludum-dare-27/img/screenshots/0.png)](http://get-mags.github.io/)
 
 hurry! is a small but speedy arcade shooter.
 
